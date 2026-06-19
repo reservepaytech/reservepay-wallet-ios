@@ -1,7 +1,6 @@
 # Reservepay Wallet SDK — iOS
 
-Swift Package Manager distribution for iOS: three binary XCFrameworks (**ReservepayWalletSDK**, *
-*ReservepayWalletSDKUI**, **AinuLivenessKit**), downloaded from **GitHub Releases** when SPM
+Swift Package Manager distribution for iOS: three binary XCFrameworks (**ReservepayWalletSDK**, **ReservepayWalletSDKUI**, **AinuLivenessKit**), downloaded from **GitHub Releases** when SPM
 resolves the package.
 
 ## Requirements
